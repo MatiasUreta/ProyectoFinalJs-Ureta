@@ -30,7 +30,7 @@ function login() {
 
         alert("Bienvenido");
 
-       window.location.href = `ecommerce.html`;
+       window.location.href = `./pages/ecommerce.html`;
     } else {
         alert("los datos no son correctos")
     }
